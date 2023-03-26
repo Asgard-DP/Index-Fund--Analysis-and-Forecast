@@ -1,7 +1,7 @@
 # Index Fund portfolio analyzer
 
 
-Index Fund portfolio analyzer:  compares the performance of Index Fund portfolios that are composed of different Index Funds and BTC. Includes calculations, tables, financial models, and Monte Carlo simulations. Also include information about past and future Predictions of the Index Funds, as well as suggestions for improving the models performance.
+Index Fund Analysis:  compares the performance of Index Fund portfolios that are composed of different Index Funds and BTC. Includes calculations, tables, financial models, and Monte Carlo simulations. Also include information about past and future Predictions of the Index Funds, as well as suggestions for improving the models performance.
 
 Analysis:
 
